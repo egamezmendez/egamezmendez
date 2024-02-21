@@ -1,8 +1,8 @@
 - 👋 Hi, Erick Gamez-Mendez. 
 - 👀 I’m interested in exercising, and spending time with my wife. 
-- 🌱 I’m currently learning PostgreSQL. 
+- 🌱 I’m currently learning the fundamentals of PostgreSQL. 
 - 💞️ I’m looking to collaborate on projects related to Python, PostgreSQL, Excel. 
-- 📫 How to reach me ... Erickgamezmendez@yahoo.com
+- 📫 How to reach me ... Erickgamezmendez@yahoo.com. 
 - ⚡ Fun fact: I have been tased and pepper sprayed. (Police Academy purposes) 
 
 <!---
